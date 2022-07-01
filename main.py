@@ -1,16 +1,54 @@
-# This is a sample Python script.
+from src.modelo.asig import Asignatura
+from src.modelo.declarative_base import Base, engine, Session
+from src.logica.Sorteo import Sorteo
+from src.logica.Sorteo import agregar_asignatura
 
-# Press Mayús+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+def añadeRegistos():
+    Base.metadata.drop_all(engine)
+    Base.metadata.create_all(engine)
+
+    session = Session()
+
+    asignatura1 = Asignatura(nombasig="Análisis y diseño de sistemas")
+    asignatura2 = Asignatura(nombasig="Pruebas  de software")
+    session.add(asignatura1)
+    session.add(asignatura2)
+    session.commit()
+    session.close()
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+def eliminarRegistros():
+    session = Session()
+    Base.metadata.drop_all(engine)
+    Base.metadata.create_all(engine)
+    session.commit()
+    session.close()
 
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    edit = Sorteo()
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    while True:
+        print("0 Salir")
+        print("1 Añadir registros")
+        print("2 Eliminar registros")
+        print("3 Editar registros")
+        opcion = int(input("Opción: "))
+        if opcion == 0:
+            print("Fin...")
+            break
+        elif opcion == 1:
+            añadeRegistos()
+
+            print("Registros añadidos")
+        elif opcion == 2:
+            eliminarRegistros()
+
+            print("Registros eliminados")
+        elif opcion == 3:
+            agregar_asignatura(2)
+            print("editado")
+        else:
+            print("Opción incorrecta")
+        print("\n\n\n")
+

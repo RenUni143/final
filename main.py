@@ -47,7 +47,7 @@ if __name__ == '__main__':
             print("Registros eliminados")
         elif opcion == 3:
             agregar_asignatura(2)
-            print("editado")
+
         else:
             print("Opción incorrecta")
         print("\n\n\n")

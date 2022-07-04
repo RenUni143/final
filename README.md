@@ -32,3 +32,8 @@ Historia de usuario detallada: HU002
 |Estimable|Conforme|Anthony|
 |Pequeña|Conforme|Brayam|
 |Comprobable|Conforme|Anthony| 
+
+
+### Wireframe para la historia de usuario
+
+![image](https://user-images.githubusercontent.com/108594728/177216056-2e9c0b05-0b0b-4d73-84bb-8c988e0be35b.png)

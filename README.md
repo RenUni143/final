@@ -1,13 +1,14 @@
 # PFC KIHEDOVI
-https://docs.google.com/document/d/1MXIU6TV8lrBtBjON4Pjq_17AQnXfjJ7q/edit
-Integrantes:
+Link: https://docs.google.com/document/d/1MXIU6TV8lrBtBjON4Pjq_17AQnXfjJ7q/edit
+
+### Integrantes:
 | Nombres | funcion |
 | ------------- | ------------- |
 | Esteban Quispe Brayam Edson     | Dueño  derepositorio|
-| Yurivilca Canayo Luis Alexander | jefe  master  |
-| Cordova Yangali Ingrid Melany   | jefe  test |
-| Torrejon Cañari Anthony Cesar   | desarrollador |
-| Pizarro Mallma Edilson Marlon   | desarrollador  |
+| Yurivilca Canayo Luis Alexander | Jefe  master  |
+| Cordova Yangali Ingrid Melany   | Jefe  test |
+| Torrejon Cañari Anthony Cesar   | Desarrollador |
+| Pizarro Mallma Edilson Marlon   | Desarrollador  |
 
 ### ITEM UNO
 Historia de usuario detallada: HU002

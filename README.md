@@ -1,14 +1,13 @@
 # PFC KIHEDOVI
-Link: https://docs.google.com/document/d/1MXIU6TV8lrBtBjON4Pjq_17AQnXfjJ7q/edit
-
-### Integrantes:
+https://docs.google.com/document/d/1MXIU6TV8lrBtBjON4Pjq_17AQnXfjJ7q/edit
+Integrantes:
 | Nombres | funcion |
 | ------------- | ------------- |
 | Esteban Quispe Brayam Edson     | Dueño  derepositorio|
-| Yurivilca Canayo Luis Alexander | Jefe  master  |
-| Cordova Yangali Ingrid Melany   | Jefe  test |
-| Torrejon Cañari Anthony Cesar   | Desarrollador |
-| Pizarro Mallma Edilson Marlon   | Desarrollador  |
+| Yurivilca Canayo Luis Alexander | jefe  master  |
+| Cordova Yangali Ingrid Melany   | jefe  test |
+| Torrejon Cañari Anthony Cesar   | desarrollador |
+| Pizarro Mallma Edilson Marlon   | desarrollador  |
 
 ### ITEM UNO
 Historia de usuario detallada: HU002
@@ -38,3 +37,5 @@ Historia de usuario detallada: HU002
 ### Wireframe para la historia de usuario
 
 ![image](https://user-images.githubusercontent.com/108594728/177216056-2e9c0b05-0b0b-4d73-84bb-8c988e0be35b.png)
+
+Todos los criterios de aceptación de cada ítem del producto backlog se han validado y aceptado por el dueño del producto, y se han puesto a prueba por al menos un miembro del  equipo.

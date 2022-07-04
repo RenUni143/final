@@ -37,7 +37,7 @@ Historia de usuario detallada: HU002
 
 ### Wireframe para la historia de usuario
 
-![image](https://user-images.githubusercontent.com/108594728/177216056-2e9c0b05-0b0b-4d73-84bb-8c988e0be35b.png
+![image](https://user-images.githubusercontent.com/108594728/177218267-3fb614ff-d67e-4059-953f-413712ab4610.png)
 
 ### Definición de hecho
 Todos los criterios de aceptación de cada ítem del producto backlog se han validado y aceptado por el dueño del producto, y se han puesto a prueba por al menos un miembro del  equipo.

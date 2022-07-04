@@ -1,5 +1,6 @@
-# PFC KIHEDOVI
-Link: https://docs.google.com/document/d/1MXIU6TV8lrBtBjON4Pjq_17AQnXfjJ7q/edit
+# PFC KIHEDOVI - Grupo 106
+
+| Link: | https://docs.google.com/document/d/1MXIU6TV8lrBtBjON4Pjq_17AQnXfjJ7q/edit |
 
 ### Integrantes:
 | Nombres | funcion |

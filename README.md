@@ -27,12 +27,12 @@ Historia de usuario detallada: HU002
 | Criterio | Comentario | Realizado por | Solucionado |
 | -------- | ---------- | ------------- | ----------- |
 |Completo|Conforme|Ingrid|      |
-|Consistente|Conforme|Marlon|
-|Negociable|Conforme|Brayam|
-|Valiosa|Conforme|Luis|
-|Estimable|Conforme|Anthony|
-|Pequeña|Conforme|Brayam|
-|Comprobable|Conforme|Anthony| 
+|Consistente|Conforme|Marlon|     |
+|Negociable|Conforme|Brayam|      |
+|Valiosa|Conforme|Luis|         |
+|Estimable|Conforme|Anthony|      |
+|Pequeña|Conforme|Brayam|         |
+|Comprobable|Conforme|Anthony|        |
 
 
 ### Wireframe para la historia de usuario
@@ -40,4 +40,4 @@ Historia de usuario detallada: HU002
 ![image](https://user-images.githubusercontent.com/108594728/177216056-2e9c0b05-0b0b-4d73-84bb-8c988e0be35b.png
 
 ### Definición de hecho
-|Todos los criterios de aceptación de cada ítem del producto backlog se han validado y aceptado por el dueño del producto, y se han puesto a prueba por al menos un miembro del  equipo.| 
+Todos los criterios de aceptación de cada ítem del producto backlog se han validado y aceptado por el dueño del producto, y se han puesto a prueba por al menos un miembro del  equipo.

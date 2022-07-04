@@ -1,5 +1,5 @@
 # PFC KIHEDOVI
-https://docs.google.com/document/d/12SrFQ4c1Q39dkbn7A5d2eFERfUXO08Xa/edit
+https://docs.google.com/document/d/1MXIU6TV8lrBtBjON4Pjq_17AQnXfjJ7q/edit
 Integrantes:
 | Nombres | funcion |
 | ------------- | ------------- |

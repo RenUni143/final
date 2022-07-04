@@ -6,5 +6,5 @@ Integrantes:
 | Brayam Edson Esteban Quispe  | Dueño  derepositorio|
 | Yurivilca Canayo Luis Alexander | jefe  master  |
 | Cordova Yangali Ingrid Melany | jefe  test |
-| Anthony Cesar Torrejon Cañari | desarrollador |
+| Torrejon Cañari Anthony Cesar | desarrollador |
 | Pizarro Mallma Edilson Marlon | desarrollador  |

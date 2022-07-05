@@ -5,11 +5,11 @@ Link: https://docs.google.com/document/d/1MXIU6TV8lrBtBjON4Pjq_17AQnXfjJ7q/edit
 ### Integrantes:
 | Nombres | funcion |
 | ------------- | ------------- |
-| Esteban Quispe Brayam Edson     | Dueño  derepositorio|100%
-| Yurivilca Canayo Luis Alexander | Jefe  master  |100%
-| Cordova Yangali Ingrid Melany   | Jefe  test |100%
-| Torrejon Cañari Anthony Cesar   | Desarrollador |100%
-| Pizarro Mallma Edilson Marlon   | Desarrollador  |100%
+| Esteban Quispe Brayam Edson     | Dueño  derepositorio|
+| Yurivilca Canayo Luis Alexander | Jefe  master  |
+| Cordova Yangali Ingrid Melany   | Jefe  test |
+| Torrejon Cañari Anthony Cesar   | Desarrollador |
+| Pizarro Mallma Edilson Marlon   | Desarrollador  |
 
 ### ITEM UNO
 Historia de usuario detallada: HU002
@@ -27,13 +27,13 @@ Historia de usuario detallada: HU002
 ### Revisión
 | Criterio | Comentario | Realizado por | Solucionado |
 | -------- | ---------- | ------------- | ----------- |
-|Completo|Conforme|Ingrid|      |
-|Consistente|Conforme|Marlon|     |
-|Negociable|Conforme|Brayam|      |
-|Valiosa|Conforme|Luis|         |
-|Estimable|Conforme|Anthony|      |
-|Pequeña|Conforme|Brayam|         |
-|Comprobable|Conforme|Anthony|        |
+|Completo|Conforme|Ingrid|   100%   |
+|Consistente|Conforme|Marlon|   100%  |
+|Negociable|Conforme|Brayam|   100%   |
+|Valiosa|Conforme|Luis|     100%    |
+|Estimable|Conforme|Anthony|   100%   |
+|Pequeña|Conforme|Brayam|    100%     |
+|Comprobable|Conforme|Anthony|     100%   |
 
 
 ### Wireframe para la historia de usuario

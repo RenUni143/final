@@ -11,6 +11,8 @@ def agregar_asignatura(idAsignatura):
         print("editado")
         session.commit()
         session.close()
+    else:
+        print("no existe la asig natura con el id ", idAsignatura)
 
 
 class Sorteo():

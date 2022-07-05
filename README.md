@@ -5,11 +5,11 @@ Link: https://docs.google.com/document/d/1MXIU6TV8lrBtBjON4Pjq_17AQnXfjJ7q/edit
 ### Integrantes:
 | Nombres | funcion |
 | ------------- | ------------- |
-| Esteban Quispe Brayam Edson     | Dueño  derepositorio|
-| Yurivilca Canayo Luis Alexander | Jefe  master  |
-| Cordova Yangali Ingrid Melany   | Jefe  test |
-| Torrejon Cañari Anthony Cesar   | Desarrollador |
-| Pizarro Mallma Edilson Marlon   | Desarrollador  |
+| Esteban Quispe Brayam Edson     | Dueño  derepositorio|100%
+| Yurivilca Canayo Luis Alexander | Jefe  master  |100%
+| Cordova Yangali Ingrid Melany   | Jefe  test |100%
+| Torrejon Cañari Anthony Cesar   | Desarrollador |100%
+| Pizarro Mallma Edilson Marlon   | Desarrollador  |100%
 
 ### ITEM UNO
 Historia de usuario detallada: HU002
